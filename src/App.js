@@ -1,6 +1,7 @@
 import BotonHola from './components/BotonHola';
 
 import './App.css';
+import ListaPersonajes from './components/ListaPersonajes';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
           <BotonHola />
         </div>
       </header>
+      <ListaPersonajes />
     </div>
   );
 }

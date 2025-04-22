@@ -42,6 +42,9 @@ _BotonHola.css
 ```
 y luego lo agregamos en BotonHola.js y luego lo agregamos en App.js
 
+## Paso 6 - Quinto Commit
+Creamos un componente de lista personaje
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
