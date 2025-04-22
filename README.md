@@ -5,14 +5,20 @@ Tener instalado nodejs
 
 ## Paso 2
 En tu terminal ejecutar el siguiente comando:
-    npx create-react-app mi-primer-react
+```
+npx create-react-app mi-primer-react
+```
 este comando creara un proyecto en la carpeta "mi-primer-react".
 
 luego nos dirigimos al carpeta donde se creo el proyecto.
-    cd mi-primer-react
+```
+cd mi-primer-react
+```
 
 finalmente ejecutamos el siguiente comando:
-    npm start
+```
+npm start
+```
 
 con eso veremos funcionando nuestra pagina en react.
 
@@ -20,6 +26,14 @@ con eso veremos funcionando nuestra pagina en react.
 Entramos a la carpeta src y abrimos el archivo App.js donde modificadaremos la pagina.
 en este caso Hola Mundo.
 
+## Paso 4 - Tercer Commit
+Creamos un boton en componentes
+
+```
+mkdir src/components
+_BotonHola.js
+```
+y luego lo agregamos en App.js
 
 
 
