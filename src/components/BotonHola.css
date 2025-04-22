@@ -1,0 +1,15 @@
+.boton-saludo {
+    background-color: #61dafb;
+    border: none;
+    padding: 12px 24px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .boton-saludo:hover {
+    background-color: #21a1f1;
+    color: #fff;
+  }
+  

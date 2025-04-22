@@ -1,4 +1,5 @@
 import React from "react";
+import "./BotonHola.css";
 
 function BotonHola(){
     const saludar = () => {
@@ -6,7 +7,7 @@ function BotonHola(){
     };
 
     return(
-        <button onClick={saludar} style={{padding:'10px 20px', fontSize:'16px' }}>
+        <button className="boton-saludo" onClick={saludar}>
             ¡Haz click aquí!
         </button>
     );

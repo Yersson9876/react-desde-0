@@ -35,7 +35,12 @@ _BotonHola.js
 ```
 y luego lo agregamos en App.js
 
-
+## Paso 5 - Cuarto Commit
+Creamos un archivo de css en src/components
+```
+_BotonHola.css
+```
+y luego lo agregamos en BotonHola.js y luego lo agregamos en App.js
 
 # Getting Started with Create React App
 
